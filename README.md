@@ -1,6 +1,5 @@
 - ✨ Hey there, I’m Noelia ✨
 - 👀 I’m interested in learning new technologies and to kick-start my software development career 👩🏻‍💻
-- 🌱 I’m currently learning React Native
 - 📩 You can email me 👉🏻 noeliabaquerostaci@gmail.com
 
 <!---

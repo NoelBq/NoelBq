@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Swift, IOS and Flutter**
 
-- 💬 Ask me about: **whatever you want!! If I don't know it, I'll just make it up! Just kidding 😂, I'm mostly into geeking out about all things tech-related**
+- 💬 Ask me about: **Whatever you want!! If I don't know it, I'll just make it up! Just kidding 😂, I'm mostly into geeking out about all things tech-related**
 
 - 📫 Whether you're up for a collab or just in the mood for a friendly chat, feel free to hit me up here: **noeliabaquerostaci@gmail.com**
 

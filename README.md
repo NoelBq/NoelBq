@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noelia</h1>
+<h1 align="center">Hi there👋, I'm Noelia</h1>
 <h3 align="center">Software developer</h3>
 
 - 🌱 I’m currently learning **Swift, IOS and Flutter**
